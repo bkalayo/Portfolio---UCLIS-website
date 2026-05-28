@@ -1,3 +1,3 @@
 # Portfolio---UCLIS-website
-Prototype of a redesign of the UCLIS website front-end, built using HTML. Included a new colourscheme introducing gold as it is one of the best complimentary colours to navy blue, which was previously present as the main colour.
+Prototype of a redesign of the UCLIS website front-end, built using HTML5. Included a new colourscheme introducing gold as it is one of the best complimentary colours to navy blue, which was previously present as the main colour.
 Accessible at: https://bkalayo.github.io/Portfolio---UCLIS-website/
